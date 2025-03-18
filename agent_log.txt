@@ -1,0 +1,225 @@
+[2025-03-11 13:19:15] Reactive Agent started
+[2025-03-11 13:19:15] Readings - Temp: 23.8°C, Vib: 8.1 Hz, Noise: 66.4 dB
+[2025-03-11 13:19:20] Readings - Temp: 48.4°C, Vib: 11.0 Hz, Noise: 92.2 dB
+[2025-03-11 13:19:20] Temperature 48.4°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:19:20] Vibration 11.0 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:19:25] Readings - Temp: 36.0°C, Vib: 10.4 Hz, Noise: 64.9 dB
+[2025-03-11 13:19:25] Vibration 10.4 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:19:30] Readings - Temp: 29.2°C, Vib: 3.2 Hz, Noise: 73.0 dB
+[2025-03-11 13:19:35] Readings - Temp: 35.3°C, Vib: 3.2 Hz, Noise: 91.4 dB
+[2025-03-11 13:19:40] Readings - Temp: 22.9°C, Vib: 5.4 Hz, Noise: 78.1 dB
+[2025-03-11 13:19:45] Readings - Temp: 47.0°C, Vib: 7.6 Hz, Noise: 75.6 dB
+[2025-03-11 13:19:45] Temperature 47.0°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:19:50] Readings - Temp: 43.6°C, Vib: 0.2 Hz, Noise: 98.0 dB
+[2025-03-11 13:19:50] Temperature 43.6°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:19:55] Readings - Temp: 47.0°C, Vib: 1.4 Hz, Noise: 99.0 dB
+[2025-03-11 13:19:55] Temperature 47.0°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:20:00] Readings - Temp: 48.0°C, Vib: 1.7 Hz, Noise: 97.8 dB
+[2025-03-11 13:20:00] Temperature 48.0°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:20:05] Readings - Temp: 28.5°C, Vib: 11.9 Hz, Noise: 84.4 dB
+[2025-03-11 13:20:05] Vibration 11.9 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:20:10] Readings - Temp: 27.0°C, Vib: 6.3 Hz, Noise: 64.3 dB
+[2025-03-11 13:20:15] Readings - Temp: 42.4°C, Vib: 2.7 Hz, Noise: 89.6 dB
+[2025-03-11 13:20:15] Temperature 42.4°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:20:20] Readings - Temp: 21.1°C, Vib: 10.0 Hz, Noise: 81.1 dB
+[2025-03-11 13:20:20] Vibration 10.0 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:20:25] Readings - Temp: 28.0°C, Vib: 0.9 Hz, Noise: 87.3 dB
+[2025-03-11 13:20:30] Readings - Temp: 27.3°C, Vib: 8.0 Hz, Noise: 60.9 dB
+[2025-03-11 13:20:35] Readings - Temp: 43.9°C, Vib: 0.8 Hz, Noise: 76.2 dB
+[2025-03-11 13:20:35] Temperature 43.9°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:20:40] Readings - Temp: 46.5°C, Vib: 0.9 Hz, Noise: 67.5 dB
+[2025-03-11 13:20:40] Temperature 46.5°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:20:45] Readings - Temp: 29.1°C, Vib: 1.9 Hz, Noise: 67.6 dB
+[2025-03-11 13:20:50] Readings - Temp: 40.8°C, Vib: 12.1 Hz, Noise: 77.7 dB
+[2025-03-11 13:20:50] Temperature 40.8°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:20:50] Vibration 12.1 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:20:55] Readings - Temp: 41.4°C, Vib: 7.3 Hz, Noise: None
+[2025-03-11 13:20:55] Temperature 41.4°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:20:55] ERROR: Noise sensor failed
+[2025-03-11 13:21:00] Readings - Temp: 20.1°C, Vib: 11.3 Hz, Noise: 97.0 dB
+[2025-03-11 13:21:00] Vibration 11.3 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:21:05] Readings - Temp: 41.4°C, Vib: 13.2 Hz, Noise: 82.1 dB
+[2025-03-11 13:21:05] Temperature 41.4°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:21:05] Vibration 13.2 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:21:10] Readings - Temp: 47.2°C, Vib: 13.4 Hz, Noise: 90.3 dB
+[2025-03-11 13:21:10] Temperature 47.2°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:21:10] Vibration 13.4 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:21:15] Readings - Temp: None, Vib: 1.9 Hz, Noise: None
+[2025-03-11 13:21:15] ERROR: Temperature sensor failed
+[2025-03-11 13:21:15] ERROR: Noise sensor failed
+[2025-03-11 13:21:20] Readings - Temp: 43.7°C, Vib: 10.0 Hz, Noise: None
+[2025-03-11 13:21:20] Temperature 43.7°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:21:20] Vibration 10.0 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:21:20] ERROR: Noise sensor failed
+[2025-03-11 13:21:25] Readings - Temp: 24.1°C, Vib: 11.6 Hz, Noise: 65.8 dB
+[2025-03-11 13:21:25] Vibration 11.6 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:21:30] Readings - Temp: 41.9°C, Vib: 13.1 Hz, Noise: 78.9 dB
+[2025-03-11 13:21:30] Temperature 41.9°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:21:30] Vibration 13.1 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:21:35] Readings - Temp: 20.9°C, Vib: 11.6 Hz, Noise: 99.0 dB
+[2025-03-11 13:21:35] Vibration 11.6 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:21:40] Readings - Temp: 49.0°C, Vib: 3.4 Hz, Noise: 93.2 dB
+[2025-03-11 13:21:40] Temperature 49.0°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:21:45] Readings - Temp: None, Vib: 3.6 Hz, Noise: 72.6 dB
+[2025-03-11 13:21:45] ERROR: Temperature sensor failed
+[2025-03-11 13:21:50] Readings - Temp: 49.9°C, Vib: 5.1 Hz, Noise: 99.8 dB
+[2025-03-11 13:21:50] Temperature 49.9°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:21:55] Readings - Temp: 49.2°C, Vib: None, Noise: 93.1 dB
+[2025-03-11 13:21:55] Temperature 49.2°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:21:55] ERROR: Vibration sensor failed
+[2025-03-11 13:22:00] Readings - Temp: 40.0°C, Vib: 6.7 Hz, Noise: 83.6 dB
+[2025-03-11 13:22:05] Readings - Temp: 34.7°C, Vib: 9.0 Hz, Noise: 60.3 dB
+[2025-03-11 13:22:10] Readings - Temp: 28.6°C, Vib: 3.1 Hz, Noise: 80.9 dB
+[2025-03-11 13:22:15] Readings - Temp: 26.6°C, Vib: 8.4 Hz, Noise: 83.9 dB
+[2025-03-11 13:22:20] Readings - Temp: 34.3°C, Vib: 14.2 Hz, Noise: 74.4 dB
+[2025-03-11 13:22:20] Vibration 14.2 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:22:25] Readings - Temp: 48.5°C, Vib: 12.1 Hz, Noise: 92.0 dB
+[2025-03-11 13:22:25] Temperature 48.5°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:22:25] Vibration 12.1 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:22:30] Readings - Temp: None, Vib: 6.0 Hz, Noise: 81.6 dB
+[2025-03-11 13:22:30] ERROR: Temperature sensor failed
+[2025-03-11 13:22:35] Readings - Temp: 47.3°C, Vib: 3.6 Hz, Noise: 98.5 dB
+[2025-03-11 13:22:35] Temperature 47.3°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:22:40] Readings - Temp: 48.2°C, Vib: 12.0 Hz, Noise: 84.0 dB
+[2025-03-11 13:22:40] Temperature 48.2°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:22:40] Vibration 12.0 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:22:45] Readings - Temp: 45.8°C, Vib: 7.1 Hz, Noise: 85.1 dB
+[2025-03-11 13:22:45] Temperature 45.8°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:22:50] Readings - Temp: 31.9°C, Vib: 3.6 Hz, Noise: 87.7 dB
+[2025-03-11 13:22:55] Readings - Temp: 31.6°C, Vib: 5.2 Hz, Noise: 91.8 dB
+[2025-03-11 13:23:00] Readings - Temp: 20.0°C, Vib: 5.5 Hz, Noise: None
+[2025-03-11 13:23:00] ERROR: Noise sensor failed
+[2025-03-11 13:23:05] Readings - Temp: 37.5°C, Vib: 3.6 Hz, Noise: 90.6 dB
+[2025-03-11 13:23:10] Readings - Temp: 29.0°C, Vib: 6.4 Hz, Noise: None
+[2025-03-11 13:23:10] ERROR: Noise sensor failed
+[2025-03-11 13:23:15] Readings - Temp: 42.7°C, Vib: 2.6 Hz, Noise: 64.1 dB
+[2025-03-11 13:23:15] Temperature 42.7°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:23:20] Readings - Temp: 39.4°C, Vib: 10.3 Hz, Noise: 88.0 dB
+[2025-03-11 13:23:20] Vibration 10.3 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:23:25] Readings - Temp: 45.6°C, Vib: None, Noise: None
+[2025-03-11 13:23:25] Temperature 45.6°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:23:25] ERROR: Vibration sensor failed
+[2025-03-11 13:23:25] ERROR: Noise sensor failed
+[2025-03-11 13:23:30] Readings - Temp: 38.4°C, Vib: None, Noise: 83.6 dB
+[2025-03-11 13:23:30] ERROR: Vibration sensor failed
+[2025-03-11 13:23:35] Readings - Temp: 20.3°C, Vib: 1.4 Hz, Noise: 68.1 dB
+[2025-03-11 13:23:40] Readings - Temp: 40.8°C, Vib: 5.9 Hz, Noise: 66.6 dB
+[2025-03-11 13:23:40] Temperature 40.8°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:23:45] Readings - Temp: 39.1°C, Vib: 1.8 Hz, Noise: 63.3 dB
+[2025-03-11 13:23:50] Readings - Temp: 46.6°C, Vib: 11.4 Hz, Noise: 68.0 dB
+[2025-03-11 13:23:50] Temperature 46.6°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:23:50] Vibration 11.4 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:23:55] Readings - Temp: 45.1°C, Vib: 9.8 Hz, Noise: 75.1 dB
+[2025-03-11 13:23:55] Temperature 45.1°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:24:00] Readings - Temp: 32.1°C, Vib: 9.1 Hz, Noise: 71.1 dB
+[2025-03-11 13:24:05] Readings - Temp: 48.3°C, Vib: 4.2 Hz, Noise: 97.8 dB
+[2025-03-11 13:24:05] Temperature 48.3°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:24:10] Readings - Temp: 50.0°C, Vib: None, Noise: 90.0 dB
+[2025-03-11 13:24:10] Temperature 50.0°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:24:10] ERROR: Vibration sensor failed
+[2025-03-11 13:24:15] Readings - Temp: 37.1°C, Vib: 3.9 Hz, Noise: 67.6 dB
+[2025-03-11 13:24:20] Readings - Temp: 47.5°C, Vib: 6.9 Hz, Noise: 74.6 dB
+[2025-03-11 13:24:20] Temperature 47.5°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:24:25] Readings - Temp: 20.8°C, Vib: 6.7 Hz, Noise: 91.6 dB
+[2025-03-11 13:24:30] Readings - Temp: 40.1°C, Vib: 1.3 Hz, Noise: 64.9 dB
+[2025-03-11 13:24:30] Temperature 40.1°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:24:35] Readings - Temp: 26.3°C, Vib: 7.3 Hz, Noise: 79.0 dB
+[2025-03-11 13:24:40] Readings - Temp: 38.3°C, Vib: 3.5 Hz, Noise: 73.1 dB
+[2025-03-11 13:24:45] Readings - Temp: 43.7°C, Vib: 3.2 Hz, Noise: 75.3 dB
+[2025-03-11 13:24:45] Temperature 43.7°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:24:50] Readings - Temp: 29.8°C, Vib: 3.4 Hz, Noise: 88.7 dB
+[2025-03-11 13:24:55] Readings - Temp: 39.8°C, Vib: 3.7 Hz, Noise: 79.6 dB
+[2025-03-11 13:25:00] Readings - Temp: 38.5°C, Vib: 12.5 Hz, Noise: 77.4 dB
+[2025-03-11 13:25:00] Vibration 12.5 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:25:05] Readings - Temp: 41.5°C, Vib: 4.4 Hz, Noise: 61.1 dB
+[2025-03-11 13:25:05] Temperature 41.5°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:25:10] Readings - Temp: 21.7°C, Vib: 10.2 Hz, Noise: 65.2 dB
+[2025-03-11 13:25:10] Vibration 10.2 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:25:15] Readings - Temp: 29.9°C, Vib: 11.7 Hz, Noise: 95.4 dB
+[2025-03-11 13:25:15] Vibration 11.7 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:25:20] Readings - Temp: 33.5°C, Vib: 14.8 Hz, Noise: 68.7 dB
+[2025-03-11 13:25:20] Vibration 14.8 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:25:25] Readings - Temp: 28.7°C, Vib: None, Noise: 84.8 dB
+[2025-03-11 13:25:25] ERROR: Vibration sensor failed
+[2025-03-11 13:25:30] Readings - Temp: 25.2°C, Vib: 14.2 Hz, Noise: 86.4 dB
+[2025-03-11 13:25:30] Vibration 14.2 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:25:35] Readings - Temp: 24.7°C, Vib: 10.1 Hz, Noise: 82.6 dB
+[2025-03-11 13:25:35] Vibration 10.1 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:25:40] Readings - Temp: 24.5°C, Vib: 7.6 Hz, Noise: 83.4 dB
+[2025-03-11 13:25:45] Readings - Temp: 37.6°C, Vib: 13.3 Hz, Noise: 98.9 dB
+[2025-03-11 13:25:45] Vibration 13.3 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:25:50] Readings - Temp: 25.6°C, Vib: None, Noise: 83.4 dB
+[2025-03-11 13:25:50] ERROR: Vibration sensor failed
+[2025-03-11 13:25:55] Readings - Temp: 40.6°C, Vib: 14.3 Hz, Noise: 62.5 dB
+[2025-03-11 13:25:55] Temperature 40.6°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:25:55] Vibration 14.3 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:26:00] Readings - Temp: 30.4°C, Vib: 3.6 Hz, Noise: 89.1 dB
+[2025-03-11 13:26:05] Readings - Temp: 26.0°C, Vib: 4.0 Hz, Noise: 61.7 dB
+[2025-03-11 13:26:10] Readings - Temp: 44.6°C, Vib: 11.6 Hz, Noise: 83.5 dB
+[2025-03-11 13:26:10] Temperature 44.6°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:26:10] Vibration 11.6 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:26:15] Readings - Temp: None, Vib: 14.4 Hz, Noise: 89.1 dB
+[2025-03-11 13:26:15] ERROR: Temperature sensor failed
+[2025-03-11 13:26:15] Vibration 14.4 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:26:20] Readings - Temp: 47.3°C, Vib: 7.0 Hz, Noise: None
+[2025-03-11 13:26:20] Temperature 47.3°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:26:20] ERROR: Noise sensor failed
+[2025-03-11 13:26:25] Readings - Temp: 43.5°C, Vib: 0.8 Hz, Noise: 95.3 dB
+[2025-03-11 13:26:25] Temperature 43.5°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:26:30] Readings - Temp: 49.8°C, Vib: 6.2 Hz, Noise: 92.2 dB
+[2025-03-11 13:26:30] Temperature 49.8°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:26:35] Readings - Temp: 21.8°C, Vib: 8.6 Hz, Noise: 71.2 dB
+[2025-03-11 13:26:40] Readings - Temp: 42.3°C, Vib: 10.9 Hz, Noise: 85.7 dB
+[2025-03-11 13:26:40] Temperature 42.3°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:26:40] Vibration 10.9 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:26:45] Readings - Temp: 30.9°C, Vib: 10.3 Hz, Noise: 76.0 dB
+[2025-03-11 13:26:45] Vibration 10.3 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:26:50] Readings - Temp: 38.2°C, Vib: 9.9 Hz, Noise: 82.2 dB
+[2025-03-11 13:26:55] Readings - Temp: 26.4°C, Vib: 5.9 Hz, Noise: 76.1 dB
+[2025-03-11 13:27:00] Readings - Temp: 36.5°C, Vib: 14.2 Hz, Noise: 69.2 dB
+[2025-03-11 13:27:00] Vibration 14.2 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:27:05] Readings - Temp: 39.4°C, Vib: 4.0 Hz, Noise: 70.2 dB
+[2025-03-11 13:27:10] Readings - Temp: 20.4°C, Vib: 3.9 Hz, Noise: 60.7 dB
+[2025-03-11 13:27:15] Readings - Temp: 43.4°C, Vib: 10.6 Hz, Noise: 79.8 dB
+[2025-03-11 13:27:15] Temperature 43.4°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:27:15] Vibration 10.6 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:27:20] Readings - Temp: None, Vib: 6.2 Hz, Noise: 99.3 dB
+[2025-03-11 13:27:20] ERROR: Temperature sensor failed
+[2025-03-11 13:27:25] Readings - Temp: 35.1°C, Vib: 7.4 Hz, Noise: 83.8 dB
+[2025-03-11 13:27:30] Readings - Temp: 43.9°C, Vib: None, Noise: 76.5 dB
+[2025-03-11 13:27:30] Temperature 43.9°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:27:30] ERROR: Vibration sensor failed
+[2025-03-11 13:27:35] Readings - Temp: 44.9°C, Vib: 4.9 Hz, Noise: 98.7 dB
+[2025-03-11 13:27:35] Temperature 44.9°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:27:40] Readings - Temp: 47.0°C, Vib: 13.4 Hz, Noise: 84.5 dB
+[2025-03-11 13:27:40] Temperature 47.0°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:27:40] Vibration 13.4 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:27:45] Readings - Temp: None, Vib: 8.1 Hz, Noise: 93.9 dB
+[2025-03-11 13:27:45] ERROR: Temperature sensor failed
+[2025-03-11 13:27:50] Readings - Temp: 21.0°C, Vib: 11.9 Hz, Noise: 76.6 dB
+[2025-03-11 13:27:50] Vibration 11.9 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:27:55] Readings - Temp: 22.9°C, Vib: 4.1 Hz, Noise: 80.2 dB
+[2025-03-11 13:28:00] Readings - Temp: 47.3°C, Vib: 2.2 Hz, Noise: 96.0 dB
+[2025-03-11 13:28:00] Temperature 47.3°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:28:05] Readings - Temp: 22.3°C, Vib: 11.9 Hz, Noise: 78.2 dB
+[2025-03-11 13:28:05] Vibration 11.9 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:28:10] Readings - Temp: 39.9°C, Vib: 12.5 Hz, Noise: 61.1 dB
+[2025-03-11 13:28:10] Vibration 12.5 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:28:15] Readings - Temp: 42.6°C, Vib: 10.9 Hz, Noise: 76.0 dB
+[2025-03-11 13:28:15] Temperature 42.6°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:28:15] Vibration 10.9 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:28:20] Readings - Temp: 43.8°C, Vib: 3.0 Hz, Noise: 82.1 dB
+[2025-03-11 13:28:20] Temperature 43.8°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:28:25] Readings - Temp: 42.0°C, Vib: 5.1 Hz, Noise: 71.3 dB
+[2025-03-11 13:28:25] Temperature 42.0°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:28:30] Readings - Temp: 42.9°C, Vib: 7.7 Hz, Noise: 92.0 dB
+[2025-03-11 13:28:30] Temperature 42.9°C exceeds 40.0°C - Shutting down equipment
+[2025-03-11 13:28:35] Readings - Temp: 25.3°C, Vib: 4.9 Hz, Noise: 92.6 dB
+[2025-03-11 13:28:40] Readings - Temp: 36.5°C, Vib: 14.1 Hz, Noise: 82.8 dB
+[2025-03-11 13:28:40] Vibration 14.1 Hz exceeds 10.0 Hz - Pausing machinery
+[2025-03-11 13:28:45] Readings - Temp: 34.9°C, Vib: 4.1 Hz, Noise: 74.6 dB
+[2025-03-11 13:28:50] Readings - Temp: 29.8°C, Vib: 5.0 Hz, Noise: 86.3 dB
+[2025-03-11 13:28:55] Readings - Temp: 26.9°C, Vib: 8.5 Hz, Noise: 71.4 dB
+[2025-03-11 13:29:00] Readings - Temp: 30.5°C, Vib: 7.8 Hz, Noise: 61.6 dB
+[2025-03-11 13:29:05] Readings - Temp: 36.0°C, Vib: 5.6 Hz, Noise: 79.8 dB
+[2025-03-11 13:29:06] Reactive Agent stopped by user
