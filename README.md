@@ -1,4 +1,5 @@
 ## Reactive AI Agent - Construction Site Monitoring
+![screencapture-127-0-0-1-5000-2025-03-17-13_49_08](https://github.com/user-attachments/assets/9aa2b3a4-0d15-4dfb-8d24-b7337dd2b6fc)
 
 A Python-based Reactive AI Agent designed to monitor construction sites in real-time using sensor data (temperature, vibration, noise). Powered by Groq Cloud API and Flask, it detects hazards, triggers actions, and displays results on a web interface.
 
